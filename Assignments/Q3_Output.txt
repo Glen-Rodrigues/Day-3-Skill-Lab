@@ -1,0 +1,5 @@
+Enter the no of matches:6
+Enter scores of 6 matches:310 356 289 270 189 201
+Highest Score: 356
+Lowest Score: 189
+Average Score: 269.17
