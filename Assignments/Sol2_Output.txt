@@ -1,0 +1,3 @@
+Enter DNA Sequence: ATGCTGACATGTGACATG
+Enter pattern to search: CAT
+Pattern found 2 time(s) in the DNA sequence.
