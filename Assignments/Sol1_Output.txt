@@ -1,0 +1,11 @@
+Enter number of passsengers: 3
+Passenger 1: Alice 30 Delhi
+Passenger 2: Bob 25 Mumbai
+Passenger 3: Charlie 40 Chennai
+Sorted List (by destination):
+Charlie 40 Chennai
+Alice 30 Delhi
+Bob 25 Mumbai
+Enter destination to search: Mumbai
+Passengers traveling to Mumbai:
+Bob
